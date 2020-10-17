@@ -1,1 +1,1 @@
-# HackToBerFest2019
+# How to participate in Hacktoberfest2020
